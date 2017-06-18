@@ -1,0 +1,4 @@
+lib/super_scraper/generic_scraper.rb 1d7ef360604b2ec893cae0c2f613c2c4e4c34b35
+lib/super_scraper/pattern.rb 548bb65d3a146fd058068789048f8e0446d18efb
+lib/super_scraper/version.rb 8a622cebabe706cec791c9d8ca7a8cada2aaecab
+lib/super_scraper.rb f5665c240693cb55ca73eb4c5a7fdc0665cfed71
