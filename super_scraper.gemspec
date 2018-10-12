@@ -4,7 +4,7 @@ Gem::Specification.new do |spec|
   spec.name          = 'super-scraper'
   spec.version       = SuperScraper::VERSION
   spec.authors       = ["Sameer Siruguri"]
-  spec.email         = ["siruguri@gmail.com"]
+  spec.email         = ["sameers.public@gmail.com"]
   spec.description   = %q{This gem is a SUPER scraper.}
   spec.summary       = %q{This gem is a SUPER scraper. It works so easily!}
   spec.homepage      = "https://github.com/siruguri/super-scraper"

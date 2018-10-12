@@ -1,0 +1,20 @@
+PATH
+  remote: .
+  specs:
+    super-scraper (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  super-scraper!
+
+RUBY VERSION
+   ruby 2.5.1p57
+
+BUNDLED WITH
+   1.16.1
